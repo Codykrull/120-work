@@ -32,7 +32,7 @@ I am really enjoying creating these markdown files with the ```.md``` extensions
 
 ### Question 5
 
-As previously mentioned most of the issues were talked over with my classmate Erin. Occasionally while we were using Github the small bits of color signifying changes were kind of lost on us, but we just double checked the tutorial and found where we were supposed to be looking.
+As previously mentioned most of the issues were talked over with my classmate Erin. Occasionally while we were using Github the small bits of color signifying changes were kind of lost on us, but we just double checked the tutorial and found where we were supposed to be looking. After finishing this assignment I made a post on the student's issue with getting Atom to launch with GitBash, unfortunately I wasn't able to find a solution, but encouraged him to continue with the assignment as opening Atom that particular way isn't imperative.
 
 ### Image of my editor
 ![Image of my editor](Markdownimage.JPG)
