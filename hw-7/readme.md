@@ -3,7 +3,7 @@ Cody Krull
 [Live Sketch Link](https://codykrull.github.io/120-work/hw-7/)
 
 
-# HW 7 
+# HW 7
 
 ## Description of What the Original Code is Doing
 
@@ -29,16 +29,22 @@ function setup() {
 createCanvas(windowWidth, 400);
 background(255);
 } ```
+
 This starts the drawing function to allow the drawing of objects
+
 ```
 function draw() {
 ```
+
 This takes the original X and Y positions of the ball and moves them +1 on their respective axis's and multiplying that movement by 1. If this function was changed to ```-=``` then is would cause the ball to change direction and go to the left, or to go up instead of down from the balls initial starting point.
+
 ```
 ball.x += ball.delta_x * ball.scale_x;
 ball.y += ball.delta_y * ball.scale_y;
 ```
+
 This keeps the ball within the confines of the width and height of the canvas, causing the ball to go in the opposite direction should it meet the edge
+
 ```
 if (ball.x >= width || ball.x <= 0) {
     ball.delta_x = -1 * ball.delta_x;
@@ -47,12 +53,15 @@ if (ball.y >= height || ball.y <= 0) {
     ball.delta_y = -1 * ball.delta_y;
     }
     ```
+
 This sets the color of the ball, draws the ball to the following coordinates, and sets the size
+
   ```
   fill(255);
   ellipse(ball.x, ball.y, ball.width, ball.width);
   }
   ```
+  
   This multiplies the balls speed either faster or slower depending on the proximity of the mouse to the ball when the mouse is clicked, thus changing the angle of the balls trajectory.
 
   ```
