@@ -51,8 +51,8 @@ if (ball.x >= width || ball.x <= 0) {
 }
 if (ball.y >= height || ball.y <= 0) {
     ball.delta_y = -1 * ball.delta_y;
-    }
-    ```
+}
+```
 
 This sets the color of the ball, draws the ball to the following coordinates, and sets the size
 
@@ -61,7 +61,7 @@ This sets the color of the ball, draws the ball to the following coordinates, an
   ellipse(ball.x, ball.y, ball.width, ball.width);
   }
   ```
-  
+
   This multiplies the balls speed either faster or slower depending on the proximity of the mouse to the ball when the mouse is clicked, thus changing the angle of the balls trajectory.
 
   ```
