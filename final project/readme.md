@@ -6,7 +6,7 @@ Cody Krull
 For my final creative coding project I'd like to create a brick breaker style of game. One where the ball is un-moving, but once the user clicks sends the ball into motion destroying bricks on the end of the screen. I would also like to implement possible number of times that bricks have to be hit, so one set might take 1 hit, while the set farther away might take 2 hits for the ball
 
 ## Issues
-I'm expecting issues with giving the breaks a theoretical health bar before disappearing, I'll try my best, but I am a little nervous about even tackling it. The same thing goes for getting rid of bricks in a couple of arrays, I'm expecting some issue. I'd also like to implement music or external photos in some fashion. Though I think a strong color pallet might just work for that, I'll play around and see what I can form.
+I'm expecting issues with giving the bricks a theoretical health bar before disappearing, I'll try my best, but I am a little nervous about even tackling it. The same thing goes for getting rid of bricks in a couple of arrays, I'm expecting some issue. I'd also like to implement music or external photos in some fashion. Though I think a strong color pallet might just work for that, I'll play around and see what I can form.
 
 
 ## Timeline
