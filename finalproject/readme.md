@@ -19,5 +19,5 @@ My failures are silly, but many. I'd say my biggest one though is that I didn't 
 ## The Product
 The product is unfinished as it shows. I will be posting the version where it errors out with the interaction and I will be posting the version that has no interaction at all, but shows the original code I written before converting it to use functions. Though I expect to receive a complete failing grade for the project and in turn the class I couldn't help but at least show that I tried. I'm sorry for the long winded writings, and the incomplete project. I hope to do better next time.
 
-Animation https://codykrull.github.io/120-work/hw-finalproject/
-Animation https://codykrull.github.io/120-work/hw-finalproject-original/
+Animation https://codykrull.github.io/120-work/finalproject/
+Animation https://codykrull.github.io/120-work/finalproject-original/
